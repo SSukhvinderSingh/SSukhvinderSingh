@@ -30,7 +30,7 @@
 
 ### 🧭 About Me
 
-I'm a **Process Engineer & Business Data Analyst ** at **Wells Fargo**, with 10+ years across **BFSI and healthcare**. I've delivered **85+ projects at a 97.8% first-pass yield**, co-founded a healthtech startup that raised a **$3M Series A at a $30M valuation**, and spend my nights turning weekend hackathon ideas into working GenAI prototypes.
+I'm a **Process Engineer & Business Data Analyst** at **Wells Fargo**, with 10+ years across **BFSI and healthcare**. I've delivered **85+ projects at a 97.8% first-pass yield**, co-founded a healthtech startup that raised a **$3M Series A at a $30M valuation**, and spend my nights turning weekend hackathon ideas into working GenAI prototypes.
 
 I care about the boring-but-important stuff — **operating models, SOPs, first-pass yield, cycle time** — and the exciting stuff — **agentic workflows, LLM-powered copilots, decision intelligence**. Turns out the two get along really well.
 
